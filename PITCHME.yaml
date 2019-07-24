@@ -12,3 +12,6 @@ footnote : "© 2019 Yu Tanaka"
 
 #スライドのページ数表示の設定
 slide-number: true
+
+#チャート / グラフ機能の設定
+charts : true
